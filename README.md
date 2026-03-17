@@ -1,18 +1,13 @@
 # TTS-TI4-Missing-Assets
-Steam servers have become unreliable, you can download all assets required to play TI4 on Tabletop Simulator here.
-These files will fix broken links/missing assets for Twilight Imperium 4th on TTS:
+Steam servers have become unreliable resulting in missing game assets. You can download all assets required to play TI4 on Tabletop Simulator here.
+These files will fix broken links/missing assets for Twilight Imperium IV (by Raptor1210) on TTS :
 
-1. Download the latest release and unzip the contents into a temporary folder.
+1. Head over to Releases and download the latest files; unzip the contents into a temporary folder.
 
-2.Open a new window in your file explorer and navigate to the Tabletop Simulator's 'Mods' folder.
-For windows it is either in your documents or Program Files:
-C:\Users\YOUR_USER\Documents\My Games\Tabletop Simulator\Mods
-C:\Program Files (x86)\Steam\steamapps\common\Tabletop Simulator\Tabletop Simulator_Data\Mods
+2. Open TTS and open the Configuration menu; make sure 'Mod Caching' is ON then click the file icon by the 'Mod Save Location'. This should bring you to where the game files are stored.
 
-3. Copy the contents of the Images folder from the unpacked zip into the Images folder in Mods; skip any replacements.
+3. Copy the contents of the Images folder from the unpacked zip into the game's Images folder; replace existing files if prompted.
 Do the same for the Models and PDF folders provided, pasting their contents into their respective folders.
 
-4. Open TTS and make sure Mod Caching is checked in the settings.
-
 You should be good to go!
-Still having problems? Message the team in the tts-mod-support channel
+Still having problems? Head over to the 'TI4 Online' discord and message the team in the 'tts-mod-support' channel.
