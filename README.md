@@ -7,9 +7,9 @@ Or to directly navigate to the files, go to:
 [Windows] %USERPROFILE%\Documents\My Games\Tabletop Simulator
 [Linux] ~/.local/share/Tabletop Simulator
 [macOS]: Tabletop Simulator's folders are in (where ~ is your home folder):
-~/Library/Tabletop Simulator
-~/Library/Application Support/Steam/steamapps/common/Tabletop Simulator
-If your ~/Library folder isn't visible in your home folder, you can either get there by going to "Go" > "Go to folder..." in the finder and entering "~/Library", or make it visible normally by opening your home folder (press cmd + n), going to "View" > "Show view options", and ensuring that "Show Library Folder" is ticked.
+\~/Library/Tabletop Simulator
+\~/Library/Application Support/Steam/steamapps/common/Tabletop Simulator
+If your \~/Library folder isn't visible in your home folder, you can either get there by going to "Go" > "Go to folder..." in the finder and entering "\~/Library", or make it visible normally by opening your home folder (press cmd + n), going to "View" > "Show view options", and ensuring that "Show Library Folder" is ticked.
 
 2. Copy the CONTENTS of the Images folder from the unpacked zip into the game's Images folder; replace existing files if prompted.
 Do the same for the Models and PDF folders provided, pasting their contents into the respective mod folders.
